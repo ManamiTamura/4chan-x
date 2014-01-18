@@ -107,4 +107,13 @@
   "software": "foolfuuka",
   "boards": ["a", "co", "gd", "jp", "m", "s4s", "sp", "tg", "tv", "u", "v", "vg", "vp", "vr", "wsg"],
   "files": ["a", "gd", "jp", "m", "s4s", "tg", "u", "vg", "vp", "vr", "wsg"]
+}, {
+  "uid": 16,
+  "name": "Maware",
+  "domain": "archive.mawa.re",
+  "http": true,
+  "https": false,
+  "software": "foolfuuka",
+  "boards": ["t"],
+  "files": ["t"]
 }]
